@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Botcraft Tutorials"
+theme = "learn"
+
+# search? what search?
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# theme param
+[params]
+themeVariant = "datui"
