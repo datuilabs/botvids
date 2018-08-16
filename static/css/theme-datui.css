@@ -113,3 +113,11 @@ div.video iframe{
     height: 100%;
     position: absolute;
 }
+
+@media (min-width: 1212px){
+    div.video{
+        width: 720px;
+        padding-bottom: 480px;
+        margin: auto;
+    }
+}
