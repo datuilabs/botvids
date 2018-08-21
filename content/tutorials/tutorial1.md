@@ -14,6 +14,8 @@ draft: false
 
 
 
+欢迎联系我们（微信Eva012649）加入微信群，不会错过教程的更新，也可以和我们一起交流哦！
+
 <img src="../img/eva.jpeg" style="width: 215px; margin: unset;"/>
 
 #### 还想让您知道
