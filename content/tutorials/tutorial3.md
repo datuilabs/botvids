@@ -9,7 +9,7 @@ draft: false
 
 <div class="video">
 <iframe src="//player.bilibili.com/player.html?aid=29529061&cid=51346276&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+</div>
 
 
 欢迎联系我们（微信Eva012649）加入微信群，不会错过教程的更新，也可以和我们一起交流哦！
