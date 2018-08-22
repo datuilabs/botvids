@@ -15,7 +15,7 @@ Botcraft是一款web端的3D建模软件，与激光切割机无痛配合，让�
 
 欢迎联系我们（微信Eva012649）加入微信群，不会错过教程的更新，也可以和我们一起交流哦！
 
-<img src="../img/eva.jpeg" style="width: 215px; margin: unset;"/>
+<img src="../img/WechatIMG1189.jpeg" style="width: 215px; margin: unset;"/>
 
 这里是火星车间的学习入口，视频会不断更新：
 #### 基础教程
