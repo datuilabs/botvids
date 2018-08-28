@@ -1,5 +1,5 @@
 ---
-title: "06为盒子做一个盖子"
+title: "07为盒子做一个盖子"
 date: 2018-08-15T17:53:52+08:00
 draft: false
 ---
@@ -17,4 +17,4 @@ draft: false
 
 #### 还想让您知道
 
-教程视频的高清地址：[06为盒子做一个盖子](https://www.bilibili.com/video/av30207166)
+教程视频的高清地址：[07为盒子做一个盖子](https://www.bilibili.com/video/av30207166)
