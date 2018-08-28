@@ -1,5 +1,5 @@
 ---
-title: "05用通用激光切割机切割第一个盒子"
+title: "05切割制作第一个盒子"
 date: 2018-08-15T17:53:52+08:00
 draft: false
 ---
@@ -18,4 +18,4 @@ draft: false
 
 #### 还想让您知道
 
-教程视频的高清地址：[05用通用激光切割机切割第一个盒子](https://www.bilibili.com/video/av29613033)
+教程视频的高清地址：[05切割制作第一个盒子](https://www.bilibili.com/video/av29613033)
