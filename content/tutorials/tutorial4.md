@@ -1,5 +1,5 @@
 ---
-title: "04导出第一个图纸"
+title: "04导出第一张图纸"
 date: 2018-08-15T17:53:52+08:00
 draft: false
 ---
@@ -18,4 +18,4 @@ draft: false
 
 #### 还想让您知道
 
-教程视频的高清地址：[04导出第一个图纸](https://www.bilibili.com/video/av29529277)
+教程视频的高清地址：[04导出第一张图纸](https://www.bilibili.com/video/av29529277)
