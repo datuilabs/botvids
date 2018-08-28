@@ -1,5 +1,5 @@
 ---
-title: "07盖子与旋转轴"
+title: "07旋转秋千 part1盖子与旋转轴"
 date: 2018-08-15T17:53:52+08:00
 draft: false
 ---
@@ -17,4 +17,4 @@ draft: false
 
 #### 还想让您知道
 
-教程视频的高清地址：[07盖子与旋转轴](https://www.bilibili.com/video/av30207166)
+教程视频的高清地址：[07旋转秋千 part1盖子与旋转轴](https://www.bilibili.com/video/av30207166)
