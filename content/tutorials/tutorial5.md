@@ -12,10 +12,15 @@ draft: false
 </div>
 
 
-欢迎联系我们（微信Eva012649）加入微信群，不会错过教程的更新，也可以和我们一起交流哦！
+<Br/>
 
-<img src="../../img/WechatIMG1189.jpeg" style="width: 215px; margin: unset;"/>
 
+<center>欢迎扫描下面的二维码加入微信群，不会错过教程的更新，也可以和我们一起交流哦！</center >
+
+<center><img src="../../img/WechatIMG1189.jpeg" style="width: 215px; margin: unset;"/></center >
+<Br/>
+<Br/>
 #### 还想让您知道
+_______________________________
 
 教程视频的高清地址：[05切割制作第一个盒子](https://www.bilibili.com/video/av29613033)
