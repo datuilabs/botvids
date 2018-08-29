@@ -6,7 +6,7 @@ Botcraft是一款web端的设计软件，可以与激光切割机、3D打印机�
 
 欢迎扫描下面的二维码加入微信群，不会错过教程的更新，也可以和我们一起交流哦！
 
-<img src="img/WechatIMG1189.jpeg" style="width: 215px; margin: unset;"/>
+<img src="/img/WechatIMG1189.jpeg" style="width: 215px; margin: unset;"/>
 
 这里是火星车间的学习入口，视频会不断更新：
 #### 基础教程
@@ -22,3 +22,5 @@ Botcraft是一款web端的设计软件，可以与激光切割机、3D打印机�
 [05用激光切割机切割图纸](tutorial5/)
 
 [（选修）用雷宇激光切割机切割](tutorial6/)
+
+[07旋转秋千 part1盖子与旋转轴](tutorial7/)
