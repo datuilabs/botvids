@@ -23,7 +23,7 @@ _______________________________
 
 教程视频的高清地址：[01动手设计第一个作品](https://www.bilibili.com/video/av29528654)
 
-谷歌浏览器下载网址：[https://www.google.cn/chrome/](https://www.google.cn/chrome/)
+谷歌浏览器下载网址：[https://pan.baidu.com/s/1qxPgBufiQ4Vx4RcNVZOMmg](https://pan.baidu.com/s/1qxPgBufiQ4Vx4RcNVZOMmg)
 
 Botcraft软件登录网址：[http://xwork.shop](http://xwork.shop)
 
