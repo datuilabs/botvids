@@ -7,7 +7,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=31018085&cid=54170403&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=32464572&cid=56803045&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <Br/>
@@ -21,4 +21,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[09旋转秋千 Part3不同的拼插方式](https://www.bilibili.com/video/av31018085/)
+教程视频的高清地址：[09旋转秋千 Part3不同的拼插方式](https://www.bilibili.com/video/av32464572/)
