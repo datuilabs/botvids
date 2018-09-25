@@ -8,7 +8,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=30635616&cid=53474407&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=32464281&cid=56802900&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <Br/>
@@ -22,4 +22,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[08旋转秋千 part2加入电子元件](https://www.bilibili.com/video/av30635616)
+教程视频的高清地址：[08旋转秋千 part2加入电子元件](https://www.bilibili.com/video/av32464281/)
