@@ -8,7 +8,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=30207166&cid=52673772&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=32464187&cid=56802426&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <Br/>
@@ -22,4 +22,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[07旋转秋千 part1盖子与旋转轴](https://www.bilibili.com/video/av30207166)
+教程视频的高清地址：[07旋转秋千 part1盖子与旋转轴](https://www.bilibili.com/video/av32464187/)
