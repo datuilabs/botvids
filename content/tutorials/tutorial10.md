@@ -7,7 +7,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=31924181&cid=55838885&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=32464707&cid=56803563&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <Br/>
@@ -21,4 +21,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[10旋转秋千 part4拼装技巧](https://www.bilibili.com/video/av31924181/)
+教程视频的高清地址：[10旋转秋千 part4拼装技巧](https://www.bilibili.com/video/av32464707/)
