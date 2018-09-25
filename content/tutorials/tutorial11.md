@@ -7,7 +7,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=31924292&cid=55839084&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=32464816&cid=56803773&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <Br/>
@@ -21,4 +21,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[11智能游戏盒 part1结构重构](https://www.bilibili.com/video/av31924292/)
+教程视频的高清地址：[11智能游戏盒 part1结构重构](https://www.bilibili.com/video/av32464816/)
