@@ -1,13 +1,13 @@
 ---
 
-title: "11智能游戏盒 part1结构重构"
+title: "11智能游戏盒 part1主控板添加"
 date: 2018-08-15T17:53:52+08:00
 draft: false
 ---
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=32464816&cid=56803773&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=34146693&cid=59815309&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 <Br/>
@@ -21,4 +21,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[11智能游戏盒 part1结构重构](https://www.bilibili.com/video/av32464816/)
+教程视频的高清地址：[11智能游戏盒 part1主控板添加](https://www.bilibili.com/video/av34146693/)
