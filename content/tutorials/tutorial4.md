@@ -8,7 +8,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=29529277&cid=51346621&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=34450698&cid=60350833&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 
@@ -23,4 +23,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[04导出第一张图纸](https://www.bilibili.com/video/av29529277)
+教程视频的高清地址：[04导出第一张图纸](https://www.bilibili.com/video/av34450698/)
