@@ -8,7 +8,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=29529061&cid=51346276&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=34450629&cid=60350741&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 
@@ -23,4 +23,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[03盒子的拼插](https://www.bilibili.com/video/av29529061)
+教程视频的高清地址：[03盒子的拼插](https://www.bilibili.com/video/av34450629/)
