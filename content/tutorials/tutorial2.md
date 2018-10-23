@@ -7,7 +7,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=29528830&cid=51346001&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=34450557&cid=60350653&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 
@@ -23,4 +23,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[02动手设计第一个立体盒子](https://www.bilibili.com/video/av29528830)
+教程视频的高清地址：[02动手设计第一个立体盒子](https://www.bilibili.com/video/av34450557/)
