@@ -8,7 +8,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=29528654&cid=51344021&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=34450488&cid=60350402&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 <Br/>
 
@@ -21,7 +21,7 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[01动手设计第一个作品](https://www.bilibili.com/video/av29528654)
+教程视频的高清地址：[01动手设计第一个作品](https://www.bilibili.com/video/av34450488/)
 
 谷歌浏览器下载网址：[https://pan.baidu.com/s/1qxPgBufiQ4Vx4RcNVZOMmg](https://pan.baidu.com/s/1qxPgBufiQ4Vx4RcNVZOMmg)
 
