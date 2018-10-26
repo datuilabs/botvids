@@ -1,6 +1,6 @@
 ---
 
-title: "12智能游戏盒 part2基础编程让秋千转过来"
+title: "12智能游戏盒 part2第一行程序"
 date: 2018-08-15T17:53:52+08:00
 draft: false
 ---
@@ -21,4 +21,5 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[12智能游戏盒 part2基础编程让秋千转过来](https://www.bilibili.com/video/av34563681/)
+教程视频的高清地址：[12智能游戏盒 part2第一行程序](https://www.bilibili.com/video/av34563681/)
+Makecode网盘下载链接：(https://pan.baidu.com/s/1LaQ8OxQcB3G0SEZNQYUmpQ)
