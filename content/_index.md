@@ -28,3 +28,11 @@ Botcraft是一款web端的设计软件，可以与激光切割机、3D打印机�
 [08旋转秋千 PART2加入电子元件](tutorials/tutorial8/)
 
 [09旋转秋千 PART3项目管理、进阶拼插](tutorials/tutorial9/)
+
+[10旋转秋千 part4拼装技巧](tutorials/tutorial10/)
+
+[11智能游戏盒 part1添加microbit主控板](tutorials/tutorial11/)
+
+[12智能游戏盒 part2第一行程序](tutorials/tutorial12/)
+
+[13智能游戏盒 part3变量赋值、随机数、条件判断](tutorials/tutorial13/)
