@@ -23,4 +23,4 @@ _______________________________
 
 教程视频的高清地址：[04 （选修）样车设计](https://www.bilibili.com/video/av40442655/)
 
-样车图纸链接：(https://pan.baidu.com/s/1_CTx4A39mUJcwuEH-6t5ZA)
+样车图纸链接：https://pan.baidu.com/s/1_CTx4A39mUJcwuEH-6t5ZA
