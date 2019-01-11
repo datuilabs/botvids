@@ -1,5 +1,5 @@
 ---
-title: "04 （选修）样车设计"
+title: "04 样车设计"
 date: 2019-01-06T17:53:52+08:00
 draft: false
 ---
@@ -21,6 +21,6 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[04 （选修）样车设计](https://www.bilibili.com/video/av40442655/)
+教程视频的高清地址：[04 样车设计](https://www.bilibili.com/video/av40442655/)
 
 样车图纸链接：https://pan.baidu.com/s/1_CTx4A39mUJcwuEH-6t5ZA
