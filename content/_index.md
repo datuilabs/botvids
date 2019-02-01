@@ -42,3 +42,21 @@ Botcraft是一款web端的设计软件，可以与激光切割机、3D打印机�
 [15手摇齿轮组 齿轮的机械传动](tutorials/tutorial15/)
 
 #### Robocup机器人世界杯教程
+
+[01 Botcraft格斗挑战赛规则](rcj/rcj1)
+
+[02 （选修）样车开箱](rcj/rcj2)
+
+[03 （选修）样车拼装](rcj/rcj3)
+
+[04 样车设计](rcj/rcj4)
+
+[05 设计启发——机器人底盘](rcj/rcj5)
+
+[06 设计启发——机器人武器系统](rcj/rcj6)
+
+[07 用MICROBIT编程机器人----第一行代码](rcj/rcj7)
+
+[08 用MICROBIT编程机器人----全方向移动](rcj/rcj8)
+
+[09 用MICROBIT编程机器人----进阶程序](rcj/rcj9)
