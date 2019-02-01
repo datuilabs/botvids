@@ -8,7 +8,7 @@ draft: false
 
 
 <div class="video">
-<iframe src="//player.bilibili.com/player.html?aid=40949664&cid=71930439&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=42310153&cid=74262220&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 <Br/>
 
@@ -21,4 +21,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[07 用microbit编程机器人----第一行代码](https://www.bilibili.com/video/av40949664/)
+教程视频的高清地址：[07 用microbit编程机器人----第一行代码](https://www.bilibili.com/video/av42310153/)
