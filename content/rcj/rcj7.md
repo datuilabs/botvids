@@ -22,3 +22,4 @@ draft: false
 _______________________________
 
 教程视频的高清地址：[07 用microbit编程机器人----第一行代码](https://www.bilibili.com/video/av42310153/)
+Makecode离线版下载地址：https://pan.baidu.com/s/1-xqccmAGqlglbjkcHseWgw
