@@ -1,5 +1,5 @@
 ---
-title: "07 用microbit编程机器人----第一行代码"
+title: "08 用microbit编程机器人----全方向移动"
 date: 2019-01-06T17:53:52+08:00
 draft: false
 ---
@@ -21,4 +21,4 @@ draft: false
 #### 还想让您知道
 _______________________________
 
-教程视频的高清地址：[07 用microbit编程机器人----第一行代码](https://www.bilibili.com/video/av42310153/)
+教程视频的高清地址：[08 用microbit编程机器人----全方向移动](https://www.bilibili.com/video/av42310153/)
