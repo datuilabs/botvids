@@ -1,5 +1,5 @@
 ---
-title: "老版Botcraft基础教程"
+title: "04老版Botcraft基础教程"
 date: 2018-08-15T17:53:52+08:00
 draft: false
 ---
