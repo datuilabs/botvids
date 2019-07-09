@@ -17,4 +17,4 @@ Makerbrush的基础功能是完全免费的，可以与激光切割机、3D打�
 
 [01动手制作第一个作品](tutorial01)
 
-[02动手制作你的立体笔筒](tutorials/tutorial02)
+[02动手制作你的立体笔筒](tutorial02)
