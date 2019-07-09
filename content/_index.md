@@ -13,6 +13,8 @@ Makerbrush的基础功能是完全免费的，可以与激光切割机、3D打�
 #### 基础教程
 [01动手制作第一个作品](tutorials/tutorial01)
 
+[02动手制作你的立体笔筒](tutorials/tutorial02)
+
 #### Robocup机器人世界杯教程
 
 [01 Botcraft格斗挑战赛规则](rcj/rcj1)
