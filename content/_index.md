@@ -15,9 +15,9 @@ Makerbrush的基础功能是完全免费的，可以与激光切割机、3D打�
 
 [02五分钟设计一个属于自己笔筒](tutorial02)
 
-[03导出图纸、增加装饰(免费版)](tutorial03)
+[03导出图纸、增加装饰(免费版)](tutorials/tutorial03)
 
-[04导出图纸、增加装饰（专业版）](tutorial04)
+[04导出图纸、增加装饰（专业版）](tutorials/tutorial04)
 
 #### Robocup机器人世界杯教程
 
