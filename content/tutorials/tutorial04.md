@@ -13,13 +13,15 @@ draft: false
 
 #### 还想让您知道
 _______________________________
-免费版对应教程：[https://wiki.datui.tv/tutorials/tutorial04/](https://wiki.datui.tv/tutorials/tutorial03/)<br/>
-RDWorks下载地址：[点我下载](http://down2.121down.com:8181/soft/RDWorksv8.zip)<br/>
-LaserMaker下载地址：[点我下载](http://www.thunderlaser.cn/upload/download/LaserMaker.zip)<br/>
+免费版对应教程：[https://wiki.datui.tv/tutorials/tutorial04/](https://wiki.datui.tv/tutorials/tutorial03/)
+
+RDWorks下载地址：[点我下载](http://down2.121down.com:8181/soft/RDWorksv8.zip)
+
+LaserMaker下载地址：[点我下载](http://www.thunderlaser.cn/upload/download/LaserMaker.zip)
+
 LaserMaker下载地址：[点我下载](http://laserbox.oss-cn-shenzhen.aliyuncs.com/software/win/laserbox-v0.2.4.exe)
 
-<br/>
-<br/>
+
 
 <center>欢迎扫描下面的二维码加入微信群，不会错过教程的更新，也可以和我们一起交流哦！</center >
 
