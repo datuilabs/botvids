@@ -11,9 +11,9 @@ Makerbrush的基础功能是完全免费的，可以与激光切割机、3D打�
 这里是火星车间的学习入口，视频会不断更新：
 
 #### 基础教程
-[01动手制作第一个作品](tutorial01)
+[01动手制作第一个作品](tutorials/tutorial01)
 
-[02五分钟设计一个属于自己笔筒](tutorial02)
+[02五分钟设计一个属于自己笔筒](tutorials/tutorial02)
 
 [03导出图纸、增加装饰(免费版)](tutorials/tutorial03)
 
