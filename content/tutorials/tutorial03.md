@@ -15,7 +15,7 @@ draft: false
 _______________________________
 专业版对应教程：[https://wiki.datui.tv/tutorials/tutorial04/](https://wiki.datui.tv/tutorials/tutorial04/)
 
-RDWorks下载地址：[点我下载](http://down2.121down.com:8181/soft/RDWorksv8.zip)
+RDWorks下载地址：[点我下载](https://makerbrush.s3.cn-north-1.amazonaws.com.cn/RDWorksv8.zip)
 
 LaserMaker下载地址：[点我下载](http://www.thunderlaser.cn/upload/download/LaserMaker.zip)
 
