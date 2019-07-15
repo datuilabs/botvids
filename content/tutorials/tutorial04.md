@@ -19,7 +19,7 @@ RDWorks下载地址：[点我下载](https://makerbrush.s3.cn-north-1.amazonaws.
 
 LaserMaker下载地址：[点我下载](http://www.thunderlaser.cn/upload/download/LaserMaker.zip)
 
-LaserMaker下载地址：[点我下载](http://laserbox.oss-cn-shenzhen.aliyuncs.com/software/win/laserbox-v0.2.4.exe)
+LaserBox下载地址：[点我下载](http://laserbox.oss-cn-shenzhen.aliyuncs.com/software/win/laserbox-v0.2.4.exe)
 
 
 
