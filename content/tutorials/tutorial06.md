@@ -7,7 +7,7 @@ draft: false
 
 <div class="video">
 <video controls="controls" width="100%">
-  <source type="video/mp4" src="https://makerbrush.s3.cn-north-1.amazonaws.com.cn/Tutorials/05Laser_Cutter.mp4"></source>
+  <source type="video/mp4" src="https://makerbrush.s3.cn-north-1.amazonaws.com.cn/Tutorials/06Adding_electronics.mp4"></source>
 </video>
 </div>
 
