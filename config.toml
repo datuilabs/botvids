@@ -10,3 +10,4 @@ home = ["HTML", "RSS", "JSON"]
 # theme param
 [params]
 themeVariant = "datui"
+ordersectionsby = "title"
